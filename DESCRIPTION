@@ -1,0 +1,15 @@
+Package: shellproj
+Type: Package
+Title: a dummy package
+Version: 0.1.0
+Author: person("Jayson", "Landman", email = "jayson.landman@investecmail.com", role = c("aut", "cre"))
+Description: .
+Depends: R (>= 3.5.1)
+License: file LICENSE
+Encoding: UTF-8
+LazyData: true
+Imports: devtools,
+    roxygen2,
+    magrittr,
+    rlang
+RoxygenNote: 6.1.0
